@@ -1,2 +1,2 @@
 # myrepo
-This is the template of facbook login page
+This is the template of facebook login page
