@@ -1,8 +1,39 @@
-<body>
-{
-    background-color: lightgray;
+body
+ {
+ background-color: lightgray;
+ }
+ .div1{
+     text-align: left;
+     margin-left: 100px;
+ }
+ .form1{
+     text-align: right;
+     margin-right: 100px;
+     margin-bottom: 500px;
+     
+ }
+.div2{
+   border: 2px solid white;
+   background-color: white;
+   margin-left: 770px;
+}
+input[type=button]{
+   background-color: blue;
+   color:white;
+   width: 95%;
+   padding: 10px;
+}
+.button2{
+   background-color: green;
+   color:white;
+   width: 50%;
+   margin: 0px 90px;
+   padding: 10px;
+}
+.div3{
+   text-align: center;
 }
 h1{
-    color="blue";
+color: blue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-</body>
